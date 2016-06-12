@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlFiber.Core", "SqlFiber.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlFiber.Core.Tests", "SqlFiber.Core.Tests\SqlFiber.Core.Tests.csproj", "{0BA08C1E-9037-4DC3-814B-055EB936C8AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlFiber.Autofac", "SqlFiber.Autofac\SqlFiber.Autofac.csproj", "{D36DE4B6-F874-4FA3-8B8C-0573CA3FFC59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{0BA08C1E-9037-4DC3-814B-055EB936C8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BA08C1E-9037-4DC3-814B-055EB936C8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BA08C1E-9037-4DC3-814B-055EB936C8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36DE4B6-F874-4FA3-8B8C-0573CA3FFC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36DE4B6-F874-4FA3-8B8C-0573CA3FFC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36DE4B6-F874-4FA3-8B8C-0573CA3FFC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36DE4B6-F874-4FA3-8B8C-0573CA3FFC59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -33,3 +33,4 @@ packages/xunit.core.2.1.0/build/win81/xunit.core.props
 packages/xunit.core.2.1.0/build/wp8/_._
 packages/xunit.core.2.1.0/build/wpa81/xunit.core.props
 packages/xunit.core.2.1.0/build/xamarinios/_._
+packages/Autofac.3.5.2/lib/portable-net4+sl5+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1/Autofac.dll
