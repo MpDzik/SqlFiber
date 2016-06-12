@@ -2,3 +2,8 @@
 .vs
 bin
 obj
+
+# Nuget
+packages/**/*.nupkg
+packages/**/*.pdb
+packages/**/*.xml
